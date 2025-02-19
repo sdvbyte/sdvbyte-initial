@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b><a href="mailto:kenedinovriansyah@gmail.com"> Email me</a></b>
-  •
-  <b><a href="https://www.linkedin.com/in/kenedy-nopriansyah-b5864a200/"> My Linkedin</a></b>
+  <b><a href="mailto:kenedinovriansyah@gmail.com"> Email me</a></b>•
+  <b><a href="https://www.linkedin.com/in/kenedy-nopriansyah-b5864a200/"> My Linkedin</a></b>•
+  <b><a href="https://stackoverflow.com/users/10867155/kenedy-nopriansyah">Stackoverflow</a></b>
 </p>
