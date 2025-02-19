@@ -3,3 +3,5 @@
 </div>
 
 <b><a href="mailto:kenedinovriansyah@gmail.com"> Email me</a></b>
+
+<b><a href="https://www.linkedin.com/in/kenedy-nopriansyah-b5864a200/"> My Linkedin</a></b>
